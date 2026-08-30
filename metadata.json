@@ -1,0 +1,6 @@
+{
+  "name": "Travel Buddy",
+  "description": "A smart travel buddy app designed for elderly and senior travelers, featuring personalized hotel recommendations, custom activity timelines, and real-time support from our Gemini travel expert, while including a monetization stream through admin-managed sponsored campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
